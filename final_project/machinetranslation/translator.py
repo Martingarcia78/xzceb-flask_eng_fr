@@ -1,5 +1,6 @@
 " This file is for creating translation methods "
 
+import deep_translator
 from deep_translator import MyMemoryTranslator
 
 #English to french function
